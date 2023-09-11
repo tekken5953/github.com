@@ -1,8 +1,7 @@
 ## Hi 👋 jaeY-Lee 😋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/tekken5953/github.com)
+![jaeY-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekken5953&repo=github&show_owner=tekken5953&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=contribs&bg_color=30,30159C,440163,440163)
 
-[![jaeY-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekken5953&repo=github&show_owner=tekken5953&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=contribs&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin-0&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
