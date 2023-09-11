@@ -1,6 +1,6 @@
 ## Hi 👋 jaeY-Lee 😋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github%20com)](https://github.com/anuraghazra/github-readme-stats)
+![tekken5953 님의 GitHub 저장소 핀](https://github-readme-stats.vercel.app/api/pin?username=tekken5953&repo=github.com&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 ![jaeY-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekken5953&repo=github&show_owner=tekken5953&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&hide=contribs&bg_color=30,30159C,440163,440163)
